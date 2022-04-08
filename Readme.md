@@ -1,3 +1,12 @@
+adapt to https://github.com/pankod/canvas2video
+
+https://github.com/greensock/GSAP
+
+
+turn  popular github repo into youtube channel  tiktok channel
+
+
+
 [![Introduction video](http://img.youtube.com/vi/1V5TQRuQ8A4/0.jpg)](http://www.youtube.com/watch?v=1V5TQRuQ8A4 "Introduction")
 
 ![GitHub Actions](https://github.com/sleuth-io/code-video-generator/workflows/Test/badge.svg)
